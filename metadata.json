@@ -1,0 +1,5 @@
+{
+  "name": "LessonCraft AI",
+  "description": "An interactive lesson builder that generates structured, personalized educational content using Gemini AI.",
+  "requestFramePermissions": []
+}
